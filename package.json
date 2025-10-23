@@ -1,0 +1,19 @@
+{
+  "name": "book-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "Maikel Lätt",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
